@@ -1,2 +1,2 @@
-# A-counter-and-a-dice
+# A-counter
 game
